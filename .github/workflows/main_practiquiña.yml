@@ -59,4 +59,4 @@ jobs:
           app-name: 'practiquiña'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B98C27C5B6F4240ACFC0E32CBA694B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6794B07C628C46F8B34263017DE0E2E5 }}
